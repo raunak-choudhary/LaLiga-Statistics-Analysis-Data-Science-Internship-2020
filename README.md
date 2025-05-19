@@ -52,7 +52,7 @@ To extract meaningful insights and performance metrics from historical LaLiga da
 
 ## 🔗 Other Projects of this Internship
 
-- **Project 1: Amazon Ecommerce Purchase Analysis**  
+- **Project 1: Amazon E-commerce Purchase Analysis**  
   [GitHub Link](https://github.com/raunak-choudhary/Amazon-Ecommerce-Purchase-Analysis-Data-Science-Internship-2020.git)
 
 - **Project 2: Insurance Cost Statistical Analysis**  
